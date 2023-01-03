@@ -9,4 +9,4 @@ def mnist():
 
 
 change="test"
-change="please"
+change="please2"
